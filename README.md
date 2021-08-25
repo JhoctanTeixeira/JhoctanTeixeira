@@ -6,16 +6,17 @@
   <img height = "170em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JhoctanTeixeira&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
+  
+  
+  
   <div style = "display: inline_block"> <br>
   <img align = "center" alt = "Jhoctan-Js" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
   <img align = "center" alt = "Jhoctan-React" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg ">
   <img align = "center" alt = "Jhoctan-HTML" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
   <img align = "center" alt = "Jhoctan-CSS" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
   <img align = "center" alt = "Jhoctan-Python" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg ">
+     <img align = "right" alt = "Jhoctan" height="150" src = "https://user-images.githubusercontent.com/80040630/129293756-d1a54b55-4b89-4daa-88ce-e771631c255e.gif">
 </div>
- <div>
-   <img align = "right" alt = "Jhoctan" height="150" src = "https://user-images.githubusercontent.com/80040630/129293756-d1a54b55-4b89-4daa-88ce-e771631c255e.gif">
- </div>
   
   ##
   
@@ -23,5 +24,5 @@
   <a href="https://www.instagram.com/jhoctan_teixeira" target= "_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-emblema&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "https://www.linkedin.com/in/jhoctan-teixeira-001a551a1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?Style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-  
+ 
  ![Snake animation](https://github.com/JhoctanTeixeira/JhoctanTeixeira/blob/output/github-contribution-grid-snake.svg)
